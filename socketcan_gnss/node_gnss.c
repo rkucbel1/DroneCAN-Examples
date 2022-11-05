@@ -8,8 +8,8 @@
 # define _GNU_SOURCE
 #endif
 
-#include "/home/rkucbel1/socketcan_gnss/libcanard/canard.h"
-#include "/home/rkucbel1/socketcan_gnss/socketcan/socketcan.h" 
+#include "/home/rkucbel1/DroneCAN-Examples/socketcan_gnss/libcanard/canard.h"
+#include "/home/rkucbel1/DroneCAN-Examples/socketcan_gnss/socketcan/socketcan.h"
 
 #include <stdio.h>
 #include <stdlib.h>
