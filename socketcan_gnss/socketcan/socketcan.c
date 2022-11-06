@@ -19,6 +19,7 @@
 #include <linux/can.h>
 #include <errno.h>
 #include <stdlib.h>
+#include <limits.h>
 
 /// Returns the current errno as negated int16_t
 static int16_t getErrorCode()
